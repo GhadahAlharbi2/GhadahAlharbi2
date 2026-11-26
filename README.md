@@ -15,7 +15,7 @@ I'm interested in machine learning, NLP, and data governance, and I enjoy turnin
 
 | Project | Description | Tools |
 |---|---|---|
-| [Complex Word Identification] | Classifying words as simple or complex using three ML models and comparing their performance | Python, scikit-learn, Colab |
-| [Two-Site Company Network]| A small company network connecting a head office and a branch office over a serial link, with DHCP and DNS servers | Cisco Packet Tracer |
-| [Data Governance Proposal]| Governance recommendations for an e-commerce case study | Research, Business Analysis |
+| Complex Word Identification | Classifying words as simple or complex using three ML models and comparing their performance | Python, scikit-learn, Colab |
+| Two-Site Company Network| A small company network connecting a head office and a branch office over a serial link, with DHCP and DNS servers | Cisco Packet Tracer |
+| Data Governance Proposal| Governance recommendations for an e-commerce case study | Research, Business Analysis |
 
